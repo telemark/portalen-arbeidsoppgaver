@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Min side",
+    "description": "Ferier, fravær og reiseregninger",
+    "target": "_blank",
+    "url": "http://tfk-fh-visma01:8200/enterprise",
+    "icon": "check_circle"
+  },
+  {
+    "title": "Compilo",
+    "description": "Kvalitets og avvikssystem",
+    "target": "_blank",
+    "url": "https://kvalitetslosen.t-fk.no/",
+    "icon": "timeline"
+  },
+  {
+    "title": "Sak/arkiv",
+    "description": "Sak/arkivsystemet",
+    "target": "_blank",
+    "url": "http://public360/",
+    "icon": "account_balance"
+  }
+]
