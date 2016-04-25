@@ -1,0 +1,23 @@
+{
+  "user": "gasg",
+  "data": [
+    {
+      "systemid": "compilo",
+      "timestamp": 1461577190262,
+      "title": "Les leselisten din",
+      "url": "http://www.compilo.no"
+    },
+    {
+      "systemid": "visma",
+      "timestamp": 1461576982982,
+      "title": "Godkjenn ferielistene for folket",
+      "url": "http://www.visma.no"
+    },
+    {
+      "systemid": "exchange",
+      "timestamp": 1461577060802,
+      "title": "Levere årsrapport",
+      "url": "http://www.exchange.no"
+    }
+  ]
+}
