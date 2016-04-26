@@ -47,5 +47,12 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/velferd/Sider/default.aspx",
     "icon": "local_offer"   
+  },
+  {
+    "title": "Innkjøp",
+    "description": "Rammeavtaler for Telemark fylkeskommune",
+    "system": "Visma comnerce",
+    "url": "https://contracts.opic.com/Home/Index/",
+    "icon": "business_center"
   }
 ]
