@@ -25,7 +25,13 @@
     "description": "Tidsregistrering for ansatte",
     "system": "Min tid",
     "url": "http://tfk-fh-stempling01/MinTid/Login.aspx?ReturnUrl=%2fmintid%2fstart.aspx",
-    "icon": "query_builder",
+    "icon": "query_builder"
   },
-  
+  {
+    "title": "Læring",
+    "description": "Oversikt over interne kurs og elektronisk opplæringsmateriell",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/laering/Sider/default.aspx",  
+    "icon": "school"
+  }
 ]
