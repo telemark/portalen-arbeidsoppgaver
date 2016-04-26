@@ -19,5 +19,13 @@
     "system": "p360",
     "url": "http://public360/",
     "icon": "account_balance"
-  }
+  },
+  {
+    "title": "Min tid",
+    "description": "Tidsregistrering for ansatte",
+    "system": "Min tid",
+    "url": "http://tfk-fh-stempling01/MinTid/Login.aspx?ReturnUrl=%2fmintid%2fstart.aspx",
+    "icon": "query_builder",
+  },
+  
 ]
