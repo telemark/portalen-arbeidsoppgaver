@@ -33,5 +33,19 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/laering/Sider/default.aspx",  
     "icon": "school"
+  },
+  {
+    "title": "Servicetorget",
+    "description": "Servicetorg for IT, arkiv mm.",
+    "system": "CS",
+    "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
+    "icon": "contact_mail"
+  },
+  {
+    "title": "Tilbud til ansatte",
+    "description": "Her finner du tilbud til deg som ansatt",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/velferd/Sider/default.aspx",
+    "icon": "local_offer"   
   }
 ]
