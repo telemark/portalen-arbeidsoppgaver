@@ -14,18 +14,18 @@
     "icon": "timeline"
   },
   {
-    "title": "Sak/arkiv",
-    "description": "Sak/arkivsystemet",
-    "system": "p360",
-    "url": "http://public360/",
-    "icon": "account_balance"
+    "title": "Fronter",
+    "description": "Læringsplattform",
+    "system": "Fronter",
+    "url": "https://fronter.com/telemarkvgs/login/feide",
+    "icon": "note"
   },
   {
-    "title": "Min tid",
-    "description": "Tidsregistrering for ansatte",
-    "system": "Min tid",
-    "url": "http://tfk-fh-stempling01/MinTid/Login.aspx?ReturnUrl=%2fmintid%2fstart.aspx",
-    "icon": "query_builder"
+    "title": "E-post",
+    "description": "Webmail for ansatte",
+    "system": "OWA",
+    "url": "https://epost.vfk.no/OWA/auth/logon.aspx",
+    "icon": "email"
   },
   {
     "title": "Læring",
@@ -41,12 +41,12 @@
     "url": "https://rom.t-fk.no/laering/Sider/default.aspx",
     "icon": "contact_mail"
   },
-  {
-    "title": "Tilbud til ansatte",
-    "description": "Her finner du tilbud til deg som ansatt",
-    "system": "Sharepoint",
-    "url": "https://rom.t-fk.no/informasjon/velferd/Sider/default.aspx",
-    "icon": "local_offer"   
+   {
+    "title": "Sak/arkiv",
+    "description": "Sak/arkivsystemet",
+    "system": "p360",
+    "url": "http://public360/",
+    "icon": "account_balance"
   },
   {
     "title": "Innkjøp",
