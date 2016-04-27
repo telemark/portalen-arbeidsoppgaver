@@ -68,5 +68,33 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Moterom.aspx",
     "icon": "event_seat"
+  },
+   {
+    "title": "Tjenestebiler",
+    "description": "Informasjon om tjenestebilene til Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Tjenestebiler.aspx",
+    "icon": "directions_car"
+  },
+  {
+    "title": "Tjenestesykler",
+    "description": "Informasjon om tjenestesyklene til Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Tjenestesykler.aspx",
+    "icon": "directions_bike"
+  },
+  {
+    "title": "Team kommunikasjon",
+    "description": "Kontaktinformasjon til team kommunikasjon",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/default.aspx",
+    "icon": "import_export"
+  },
+   {
+    "title": "Annonsering",
+    "description": "Informason om annonser og stillingsannonser",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Annonsering.aspx",
+    "icon": "view_headline"
   }
 ]
