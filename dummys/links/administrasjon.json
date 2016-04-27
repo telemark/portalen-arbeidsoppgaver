@@ -40,5 +40,12 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Fagforeninger.aspx",
     "icon": "supervisor_account"
+  },
+     {
+    "title": "Bedriftshelsetjenesten i Telemark fylkeskommune",
+    "description": "Kontaktinformasjon til bedrifthelsetjenesten i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Bedriftshelsetjenesten.aspx",
+    "icon": "healing"
   }
 ]
