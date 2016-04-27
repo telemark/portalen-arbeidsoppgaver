@@ -243,5 +243,138 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/Sider/%C3%85rshjul.aspx",
     "icon": "autorenew"
-  }
+  },
+  {
+    "title": "Kurs",
+    "description": "Kurskatalog",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/laering/Kurs/Sider/default.aspx",
+    "icon": "lightbulb_outline"
+  },
+  {
+    "title": "Opplæring Pindena",
+    "description": "Opplæringsvideo Pindena",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/laering/Sider/Pindena.aspx",
+    "icon": "perm_device_information"
+  },
+  {
+    "title": "Arbeidsgiverorganisasjoner",
+    "description": "Oversikt over arbeidsgiverorganisasjoner i Telemark",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Arbeidsgiverorganisasjoner.aspx",
+    "icon": "group_work"
+  },
+  {
+    "title": "Aviser og media",
+    "description": "Oversikt over lokal og nasjonal media",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Aviser-og-media.aspx",
+    "icon": "theaters"
+  },
+  {
+    "title": "Besøksregistrering",
+    "description": "Hvis du venter besøk til fylkeshuset",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Bes%C3%B8ksregistrering.aspx",
+    "icon": "content_paste"
+  },
+  {
+    "title": "Fylkeskommuner",
+    "description": "Andre fylkeskommuner",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Fylkeskommuner.aspx",
+    "icon": "terrain"
+  },
+  {
+    "title": "Helse",
+    "description": "Helseinstitusjoner",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Helse.aspx",
+    "icon": "local_hospital"
+  },
+  {
+    "title": "Internasjonalt",
+    "description": "Telemark fylkeskommune sitt internasjonale arbeid",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Internasjonalt.aspx",
+    "icon": "language"
+  },
+  {
+    "title": "Kommuner",
+    "description": "Kommuner i Telemark",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Kommuner.aspx",
+    "icon": "landscape"
+  },
+  {
+    "title": "Kultur",
+    "description": "Kulturinstitusjoner i Telemark",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Kultur.aspx",
+    "icon": "blur_circular"
+  },
+  {
+    "title": "Lover",
+    "description": "Utvalgte lover",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Lover.aspx",
+    "icon": "library_books"
+  },
+  {
+    "title": "Næringsliv",
+    "description": "Næringslivsaktører",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Næringsliv.aspx",
+    "icon": "business"
+  },
+  {
+    "title": "Opplæring",
+    "description": "Opplæringsaktører",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Opplæring.aspx",
+    "icon": "school"
+  },
+  {
+    "title": "Pindena",
+    "description": "Pindena brukes til administrasjon av kurs og seminarer",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Empatix.aspx",
+    "icon": "people"
+  },
+  {
+    "title": "Plan",
+    "description": "Planer for Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Plan.aspx",
+    "icon": "today"
+  },
+  {
+    "title": "Politikk",
+    "description": "Politiske partier",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Politikk.aspx",
+    "icon": "layers"
+  },
+  {
+    "title": "Samfunn",
+    "description": "Samfunnsaktører",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Samfunn.aspx",
+    "icon": "people_outline"
+  },
+  {
+    "title": "Telemark kommunerevisjon",
+    "description": "Telemark kommunerevisjon er et interkommunalt revisjonsselskap",
+    "system": "web",
+    "url": "http://tekomrev.no/",
+    "icon": "view_headline"
+  },
+  {
+    "title": "BTV-innkjøp",
+    "description": "BTV Innkjøp har fagansvaret for innkjøp i Buskerud, Telemark og Vestfold fylkeskommuner",
+    "system": "web",
+    "url": "http://www.bfk.no/Innkjop/",
+    "icon": "account_balance_wallet"
+  }                                                                     
 ]
