@@ -54,5 +54,12 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/fylkeshuset/amuhms/Sider/default.aspx",
     "icon": "group"
+  },
+   {
+    "title": "Møtemat",
+    "description": "Bestilling av møtemat",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Motemat.aspx",
+    "icon": "cake"
   }
 ]
