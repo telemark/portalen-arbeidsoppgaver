@@ -61,5 +61,12 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Motemat.aspx",
     "icon": "cake"
+  },
+    {
+    "title": "Møterom",
+    "description": "Informasjon om møterommene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Moterom.aspx",
+    "icon": "event_seat"
   }
 ]
