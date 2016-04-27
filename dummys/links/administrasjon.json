@@ -1,10 +1,10 @@
 [
   {
-    "title": "Min side",
-    "description": "Ferier, fravær og reiseregninger",
-    "system": "visma",
-    "url": "http://tfk-fh-visma01:8200/enterprise",
-    "icon": "check_circle"
+    "title": "Arbeidsrom",
+    "description": "Område for samarbeid og dokumentdeling",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/Arbeidsrom/Sider/default.aspx",
+    "icon": "work"
   },
   {
     "title": "Compilo",
