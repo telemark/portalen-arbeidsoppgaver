@@ -7,17 +7,38 @@
     "icon": "work"
   },
   {
-    "title": "Compilo",
-    "description": "Kvalitets og avvikssystem",
-    "system": "compilo",
-    "url": "https://kvalitetslosen.t-fk.no/",
-    "icon": "timeline"
+    "title": "Prosjektveiviseren",
+    "description": "Rom for prosjektstyring",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/sites/Prosjektveiviseren/SitePages/Portefolje.aspx",
+    "icon": "folder"
   },
   {
-    "title": "Sak/arkiv",
-    "description": "Sak/arkivsystemet",
-    "system": "p360",
-    "url": "http://public360/",
-    "icon": "account_balance"
+    "title": "Kontaktinformasjon",
+    "description": "Kontaktinformasjon til Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/default.aspx",
+    "icon": "contact_phone"
+  },
+    {
+    "title": "Kontaktinformasjon skoler",
+    "description": "Kontaktinformasjon til skolene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Skoler.aspx",
+    "icon": "school"
+  },
+   {
+    "title": "Kontaktinformasjon tannklinikker",
+    "description": "Kontaktinformasjon til tannklinikkene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Tannklinikker.aspx",
+    "icon": "local_hospital"
+  },
+   {
+    "title": "Kontaktinformasjon fagforening",
+    "description": "Kontaktinformasjon til fagforeningene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Fagforeninger.aspx",
+    "icon": "supervisor_account"
   }
 ]
