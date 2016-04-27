@@ -47,5 +47,12 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Bedriftshelsetjenesten.aspx",
     "icon": "healing"
+  },
+       {
+    "title": "AMU og HMS",
+    "description": "Informasjon om arbeidsmiljøutvalget for administrasjonen",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/amuhms/Sider/default.aspx",
+    "icon": "group"
   }
 ]
