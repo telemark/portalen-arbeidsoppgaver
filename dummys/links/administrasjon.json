@@ -96,5 +96,61 @@
     "system": "Sharepoint",
     "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Annonsering.aspx",
     "icon": "view_headline"
+  },
+   {
+    "title": "Bildearkiv",
+    "description": "Vår egen bildebase",
+    "system": "Fotostation",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/bildearkiv/Sider/default.aspx",
+    "icon": "photo_camera"
+  },
+   {
+    "title": "Grafisk profil",
+    "description": "Grafisk profil for Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Grafisk-profil.aspx",
+    "icon": "gesture"
+  },
+   {
+    "title": "Mediereglement",
+    "description": "Retningslinjer for mediekontakt",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Mediereglement.aspx",
+    "icon": "mic"
+  },
+   {
+    "title": "Logo",
+    "description": "Logo for alle virksomheter i Telemark fylkeskommune",
+    "system": "web",
+    "url": "https://designguide.t-fk.no/logo-og-bruk/fylkesvaapen/",
+    "icon": "label_outline"
+  },
+   {
+    "title": "PR-materiell",
+    "description": "Profileringsmateriell til utlån",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/PR-materiell.aspx",
+    "icon": "picture_in_picture"
+  },
+   {
+    "title": "Visittkort",
+    "description": "Bestilling av visittkort",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Visittkort.aspx",
+    "icon": "card_membership"
+  },
+   {
+    "title": "Trykking",
+    "description": "Rammeavtale for trykking",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Trykking.aspx",
+    "icon": "print"
+  },
+  {
+    "title": "Team IT",
+    "description": "Informasjon om team IT",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/default.aspx",
+    "icon": "computer"
   }
 ]
