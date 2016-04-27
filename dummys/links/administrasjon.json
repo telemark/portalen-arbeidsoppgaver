@@ -376,5 +376,33 @@
     "system": "web",
     "url": "http://www.bfk.no/Innkjop/",
     "icon": "account_balance_wallet"
-  }                                                                     
+  },
+  {
+    "title": "Utdanningsdirektoratet",
+    "description": "BTV Innkjøp har fagansvaret for innkjøp i Buskerud, Telemark og Vestfold fylkeskommuner",
+    "system": "web",
+    "url": "http://www.bfk.no/Innkjop/",
+    "icon": "account_balance_wallet"
+  },
+  {
+    "title": "Ferie",
+    "description": "Informasjon om ferie",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/OFTESTILTE/Sider/Ferie.aspx",
+    "icon": "local_airport"
+  },
+  {
+    "title": "Egenmelding",
+    "description": "Informasjon om egenmelding",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/OFTESTILTE/Sider/Egenmelding.aspx",
+    "icon": "accessibility"
+  },
+  {
+    "title": "Foreldrepermisjon",
+    "description": "Informasjon om foreldrepermisjon",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/OFTESTILTE/Sider/Foreldrepermisjon.aspx",
+    "icon": "child_friendly"
+  }                                                                                              
 ]
