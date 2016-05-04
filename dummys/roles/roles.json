@@ -1,0 +1,262 @@
+[
+  {
+    "id": "administrativledelse",
+    "name": "Administrativ ledelse"
+  },
+  {
+    "id": "aust-telemarktannhelsedistrikt",
+    "name": "Aust-Telemark tannhelsedistrikt"
+  },
+  {
+    "id": "brekkebyvgs",
+    "name": "Brekkeby vgs"
+  },
+  {
+    "id": "btvinternasjonalgruppe",
+    "name": "BTV internasjonal gruppe"
+  },
+  {
+    "id": "bambletannhelsedistrikt",
+    "name": "Bamble tannhelsedistrikt"
+  },
+  {
+    "id": "bamblevgs.avd.croftholmen",
+    "name": "Bamble vgs. avd. Croftholmen"
+  },
+  {
+    "id": "bamblevgs.avd.grasmyr",
+    "name": "Bamble vgs. avd. Grasmyr"
+  },
+  {
+    "id": "drangedaltannklinikk",
+    "name": "Drangedal tannklinikk"
+  },
+  {
+    "id": "driftsavdelingen",
+    "name": "Driftsavdelingen"
+  },
+  {
+    "id": "edlandtannklinikk",
+    "name": "Edland tannklinikk"
+  },
+  {
+    "id": "fylkesbibliotekettelemarksbiblio",
+    "name": "Fylkesbiblioteket Telemarksbiblio"
+  },
+  {
+    "id": "fylkestannlegenskontor",
+    "name": "Fylkestannlegens kontor"
+  },
+  {
+    "id": "geoparken",
+    "name": "Geoparken"
+  },
+  {
+    "id": "granlienaktivitetssenter",
+    "name": "Granlien aktivitetssenter"
+  },
+  {
+    "id": "hjalmarjohansenvgs",
+    "name": "Hjalmar Johansen vgs"
+  },
+  {
+    "id": "hurumkommune",
+    "name": "Hurum Kommune"
+  },
+  {
+    "id": "husservice",
+    "name": "Husservice"
+  },
+  {
+    "id": "klosterskogenvgs",
+    "name": "Klosterskogen vgs"
+  },
+  {
+    "id": "kulturskatten",
+    "name": "Kulturskatten"
+  },
+  {
+    "id": "kursbruker",
+    "name": "Kursbruker"
+  },
+  {
+    "id": "midt-telemarktannhelsedistrikt",
+    "name": "Midt-Telemark tannhelsedistrikt"
+  },
+  {
+    "id": "notoddenvgs",
+    "name": "Notodden vgs"
+  },
+  {
+    "id": "nedreeikerkommune",
+    "name": "Nedre Eiker kommune"
+  },
+  {
+    "id": "nedretelemarkjordskifterett",
+    "name": "Nedre Telemark Jordskifterett"
+  },
+  {
+    "id": "nomevgs.avd.lunde",
+    "name": "Nome vgs. avd. Lunde"
+  },
+  {
+    "id": "norgeshusflidslag",
+    "name": "Norges Husflidslag"
+  },
+  {
+    "id": "notoddentannklinikk",
+    "name": "Notodden tannklinikk"
+  },
+  {
+    "id": "oralkirurgiskklinikktelemark",
+    "name": "Oralkirurgisk klinikk Telemark"
+  },
+  {
+    "id": "politiker",
+    "name": "Politiker"
+  },
+  {
+    "id": "porsgrunntannhelsedistrikt",
+    "name": "Porsgrunn tannhelsedistrikt"
+  },
+  {
+    "id": "porsgrunnvgs",
+    "name": "Porsgrunn vgs"
+  },
+  {
+    "id": "regionaletaten",
+    "name": "Regionaletaten"
+  },
+  {
+    "id": "rjukantannklinikk",
+    "name": "Rjukan tannklinikk"
+  },
+  {
+    "id": "skogmovgs",
+    "name": "Skogmo vgs"
+  },
+  {
+    "id": "seljordtannklinikk",
+    "name": "Seljord tannklinikk"
+  },
+  {
+    "id": "sentraladministrasjonen",
+    "name": "Sentraladministrasjonen"
+  },
+  {
+    "id": "sentraladministrasjonen-tfk",
+    "name": "Sentraladministrasjonen-TFK"
+  },
+  {
+    "id": "servicesenteret",
+    "name": "Servicesenteret"
+  },
+  {
+    "id": "siljantannklinikk",
+    "name": "Siljan tannklinikk"
+  },
+  {
+    "id": "skientannhelsedistrikt",
+    "name": "Skien tannhelsedistrikt"
+  },
+  {
+    "id": "skienvgs",
+    "name": "Skien vgs"
+  },
+  {
+    "id": "spesialisttannklinikken",
+    "name": "Spesialisttannklinikken"
+  },
+  {
+    "id": "stabsavdelingen",
+    "name": "Stabsavdelingen"
+  },
+  {
+    "id": "stathelletannklinikk",
+    "name": "Stathelle tannklinikk"
+  },
+  {
+    "id": "tfkadministrasjon",
+    "name": "TFK Administrasjon"
+  },
+  {
+    "id": "tfkadministrasjonen",
+    "name": "TFK Administrasjonen"
+  },
+  {
+    "id": "tfkeiendom",
+    "name": "TFK eiendom"
+  },
+  {
+    "id": "tannklinikkenmidttelemark",
+    "name": "Tannklinikken Midt Telemark"
+  },
+  {
+    "id": "tannklinikkenporsgrunn",
+    "name": "Tannklinikken Porsgrunn"
+  },
+  {
+    "id": "tannklinikkenskien",
+    "name": "Tannklinikken Skien"
+  },
+  {
+    "id": "teameiendom",
+    "name": "Team eiendom"
+  },
+  {
+    "id": "telemarkfylkeskommune",
+    "name": "Telemark Fylkeskommune"
+  },
+  {
+    "id": "telemarkkommunerevisjon",
+    "name": "Telemark kommunerevisjon"
+  },
+  {
+    "id": "telemarkkommunerevisjoniks",
+    "name": "Telemark kommunerevisjon IKS"
+  },
+  {
+    "id": "telemarktekniskefagskole",
+    "name": "Telemark tekniske fagskole"
+  },
+  {
+    "id": "telemarkskanalen",
+    "name": "Telemarkskanalen"
+  },
+  {
+    "id": "treungentannklinikk",
+    "name": "Treungen tannklinikk"
+  },
+  {
+    "id": "ulefosstannklinikk",
+    "name": "Ulefoss tannklinikk"
+  },
+  {
+    "id": "vest-telemarktannhelsedistrikt",
+    "name": "Vest-Telemark tannhelsedistrikt"
+  },
+  {
+    "id": "vest-telemarkvgs.avd.dalen",
+    "name": "Vest-Telemark vgs. avd. Dalen"
+  },
+  {
+    "id": "vestmartannhelsedistrikt",
+    "name": "Vestmar tannhelsedistrikt"
+  },
+  {
+    "id": "vigoiks",
+    "name": "Vigo IKS"
+  },
+  {
+    "id": "vinjetannklinikk",
+    "name": "Vinje tannklinikk"
+  },
+  {
+    "id": "atea",
+    "name": "atea"
+  },
+  {
+    "id": "sentraladministrasjon",
+    "name": "sentraladministrasjon"
+  }
+]
